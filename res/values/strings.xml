@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">portfolio</string>
+    <string name="my_nanodegree_apps">My Nanodegree Apps</string>
+    <string name="spotify_streamer">Spotify Streamer</string>
+    <string name="capstone_project">Capstone</string>
+    <string name="build_bigger">Build it bigger</string>
+    <string name="super_duo">Super Duo</string>
+    <string name="xyz_reader">XYZ Reader</string>
+
 </resources>

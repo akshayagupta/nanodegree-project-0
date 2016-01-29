@@ -12,6 +12,7 @@
             android:gravity="center"
             />
     <Button
+            android:id="@+id/super_streamer"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:minHeight="48dp"
@@ -21,6 +22,7 @@
 
 
     <Button
+            android:id="@+id/super_duo"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:minHeight="48dp"
@@ -30,6 +32,7 @@
 
 
     <Button
+            android:id="@+id/build_bigger"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:minHeight="48dp"
@@ -39,6 +42,7 @@
 
 
     <Button
+            android:id="@+id/xyz_reader"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:minHeight="48dp"
@@ -47,6 +51,7 @@
             android:layout_marginBottom="8dp"/>
 
     <Button
+            android:id="@+id/capstone"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:minHeight="48dp"
